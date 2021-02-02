@@ -1,0 +1,55 @@
+.title {
+    color: aliceblue;
+    font-size: 75px;
+    font-family: 'Damion', cursive;
+    text-align: center;
+}
+
+img {
+    width: 45%;
+    height: 30%;
+    border: 10px solid springgreen;
+    border: 10px groove mediumseagreen;
+
+}
+
+.blue {
+    color: lightcyan;
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.lightgreen {
+    color: palegreen;
+    font-family: 'Handlee', cursive;
+    font-size: 25px;
+    text-align: center;
+}
+
+.darkgreen {
+    color: mediumaquamarine;
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 25px;
+    text-align: center;
+}
+
+p {
+    color: mediumturquoise;
+    font-family: 'Homemade Apple', cursive;
+    font-size: 27px;
+    text-align: center;
+}
+
+body {
+    background-color: teal;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKliyvNluWUm_GlBb1uowtPEjj-OXPOJcwOw&usqp=CAU");
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
